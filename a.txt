@@ -9,4 +9,3 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git has a mutable index called stage.
  修改了最后一行
- 哈哈哈哈哈哈哈哈哈哈或
