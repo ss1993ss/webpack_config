@@ -7,4 +7,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
-Git has a mutable index called stage.  master文件
+Git has a mutable index called stage. 修改了最后一行
